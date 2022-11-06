@@ -1,1 +1,13 @@
 /* Style for Studio */
+
+.header {
+  background-color: #ffff;
+}
+
+.logo {
+  color: #2196f3;
+}
+
+.logo-header {
+  color: black;
+}
